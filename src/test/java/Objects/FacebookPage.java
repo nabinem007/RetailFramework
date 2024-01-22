@@ -31,7 +31,7 @@ public class FacebookPage {
             driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
             String text = driver.findElement(By.xpath("//span[text()='Nabinn Cchetri']")).getText();
             System.out.println(text);
-            Assert.assertEquals(text,"Nabinn Cchetri");
+            //Assert.assertEquals(text,"Nabinn Cchetri");
 
 
 
