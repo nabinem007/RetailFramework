@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-    <test verbose="2" preserve-order="true" name="C:/Java/RetailFramework/src/test/java/TestScenarios/TestMethods.java">
+    <test verbose="2" preserve-order="true" name="C:/Java/RetailFramework/src/test/java/TestScenarios/TestPF.java">
         <classes>
 
-            <class name="TestScenarios.TestMethods"/>
+<!--            <class name="TestScenarios.TestMethods"/>-->
+            <class name="TestScenarios.TestPF"/>
         </classes>
     </test>
 </suite>
